@@ -5,7 +5,7 @@
 
 
 ## Datasets
-- [Hindi Wikipedia Articles Dataset]()
+- [Hindi Wikipedia Articles Dataset](https://drive.google.com/file/d/11aZeRC0uYQz6ScvmHQucfn7fwryqxPUd/view?usp=sharing)
 - [Hindi Movie Reviews Datset](https://www.kaggle.com/disisbig/hindi-movie-reviews-dataset)
 
 ### Wikipedia Articles Dataset
