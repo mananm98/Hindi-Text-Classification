@@ -34,7 +34,7 @@ The Language Model Makes Some Cool Predictions ✨
 
 ## Downloads
 - [Hindi-Wikipedia-Language-Model](https://drive.google.com/file/d/1qPP6hGKS1CxBb2ZtVVASDLUQz_qa5y1i/view?usp=sharing)
-- [Hindi-Text-Classifier-Positive/Neutral/Negative](https://drive.google.com/file/d/1nhws0wZLihhVehmqQHT-B38V17FJp9eS/view?usp=sharing)
+- [Hindi-Text-Classifier-Positive|Neutral|Negative](https://drive.google.com/file/d/1nhws0wZLihhVehmqQHT-B38V17FJp9eS/view?usp=sharing)  
 Note : The language model and classifier are fastai learner objects, they will work with the [fastai library](https://docs.fast.ai/basic_train.html#Learner.load)
 
 ## Run in Colab
