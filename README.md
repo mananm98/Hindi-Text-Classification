@@ -21,5 +21,16 @@
 - This dataset was downloaded from this amazing [repo](https://github.com/goru001/nlp-for-hindi) by **Gaurav Arora**. Check out his [github](https://github.com/goru001), he has done great work for other Indian languages as well.
 
 ### Wikipedia Language Model predictions
+The Language Model Makes Some Cool Predictions ✨
+
 ![predictions](https://github.com/mananm98/Hindi-Text-Classification/blob/master/images/Screen%20Shot%202020-05-27%20at%2014.03.11.png)
 
+- After pretraining, the Hindi Language Model was fine tuned on Hindi Movie Reviews dataset. Then the encoder of fine tuned Language Model was used to further train the Hindi Text Classifier. This method of training a classifier is called [ULMFIT](https://arxiv.org/abs/1801.06146) and it was introduced by Jeremy Howard and Sebastian Ruder.
+
+### Results 
+| Model  | Accuracy on Test Set |
+|--------|----------------------|
+| ULMFIT | 62.27%               |
+
+### Downloads
+- [Hindi-Wikipedia-Language-Model]()
